@@ -1,0 +1,1509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "AUSTRALIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9631,
+          -37.8136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "AUSTRALIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2093,
+          -33.8688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "ARGENTINA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.1888,
+          -31.4201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SOUTH AFRICA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.0473,
+          -26.2041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SOUTH AFRICA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.246,
+          -26.1392
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BRAZIL",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -47.8825,
+          -15.7942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDONESIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.3695,
+          -7.7956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TANZANIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2083,
+          -6.7924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TANZANIA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.2026,
+          -6.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDONESIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.8272,
+          -6.1754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "KENYA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8219,
+          -1.2921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UGANDA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.4435,
+          0.0424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SINGAPORE",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8198,
+          1.3521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SINGAPORE",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.9915,
+          1.3644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "MALAYSIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.3657,
+          3.0116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "MALAYSIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.6869,
+          3.139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CÔTE D’IVOIRE",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.0083,
+          5.3167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GHANA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.186964,
+          5.603717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GHANA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1668,
+          5.6052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GHANA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.0167,
+          5.6333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "NIGERIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792,
+          6.5244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "NIGERIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.49508,
+          9.05785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "COSTA RICA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0833,
+          9.9333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "VIETNAM",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.6958,
+          10.7758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CAMBODIA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.8441,
+          11.5466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDIA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.2707,
+          13.0827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "THAILAND",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "PHILIPPINES",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.9842,
+          14.5995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SENEGAL",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.4439,
+          14.6937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "MYNAMAR",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          96.1332,
+          16.9073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "DOMINICAN REPUBLIC",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.9312,
+          18.4861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDIA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8777,
+          19.076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "MEXICO",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1332,
+          19.4326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SAUDI ARABIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.173,
+          21.4812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "HONG KONG",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.1135,
+          22.3193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BANGLADESH",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8259,
+          22.3286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDIA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3639,
+          22.5726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CHINA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BANGLADESH",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4125,
+          23.8103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BANGLADESH",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3978,
+          23.8433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED ARAB EMIRATES",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.3773,
+          24.4539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SAUDI ARABIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.6753,
+          24.7136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TAIWAN",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.3014,
+          22.6163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TAIWAN",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.5654,
+          25.033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED ARAB EMIRATES",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.3644,
+          25.2528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "QATAR",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.531,
+          25.2769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BAHRAIN",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.61,
+          26.2014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "NEPAL",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.324,
+          27.7172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "INDIA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.209,
+          28.6139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "KUWAIT",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.9774,
+          29.3759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3698,
+          29.7604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "EGYPT",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.3521,
+          29.9583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "EGYPT",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.2357,
+          30.0444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CHINA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0665,
+          30.5728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CHINA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "ISRAEL",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2137,
+          31.7683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "ISRAEL",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9896,
+          32.8111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "LIBYA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.1802,
+          32.8872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "IRAQ",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3661,
+          33.3152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "PAKISTAN",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.0551,
+          33.6844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "LEBANON",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5018,
+          33.8938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2437,
+          34.0522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "KOREA (SOUTH)",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.0756,
+          35.1796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "JAPAN",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.6917,
+          35.6895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TUNISIA",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.2272,
+          36.851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "KOREA (SOUTH)",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.978,
+          37.5665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GREECE",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9445,
+          37.9364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GREECE",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.7275,
+          37.9838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "PORTUGAL",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1393,
+          38.7223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0369,
+          38.9072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CHINA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4074,
+          39.9042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TURKEY",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.8597,
+          39.9334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SPAIN",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7038,
+          40.4168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "ITALY",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2681,
+          40.8518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "TURKEY",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.0418,
+          41.0036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "SPAIN",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1774,
+          41.3829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "UNITED STATES OF AMERICA",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6298,
+          41.8781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "ROMANIA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.1025,
+          44.4268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "CANADA",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6972,
+          45.4215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "HUNGARY",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0402,
+          47.4979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "FRANCE",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55,
+          49.0097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "FRANCE",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3522,
+          48.8566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GERMANY",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "BELGIUM",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3517,
+          50.8503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GREAT BRITAIN (UNITED KINGDOM)",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1276,
+          51.5074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "POLAND",
+        "services": "Air",
+        "icon": "airport-icon",
+        "type": "Air"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9679,
+          52.1657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "NETHERLANDS",
+        "services": "Inland",
+        "icon": "inland-icon",
+        "type": "Inland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9041,
+          52.3676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GERMANY",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9665,
+          53.5461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "POLAND",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6466,
+          54.352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "GREAT BRITAIN (UNITED KINGDOM)",
+        "services": "Regional",
+        "icon": "regional-icon",
+        "type": "Regional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.1883,
+          55.9533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "RUSSIA",
+        "services": "Sea",
+        "icon": "seaport-icon",
+        "type": "Sea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.3158,
+          59.9398
+        ]
+      }
+    }
+  ]
+}
